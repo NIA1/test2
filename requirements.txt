@@ -1,0 +1,7 @@
+Gunicorn
+fastapi
+numpy
+typing
+Pillow
+jinja2
+python-multipart
